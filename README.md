@@ -3,4 +3,5 @@
 [![Twitter](https://img.shields.io/badge/twitter-@havok-blue.svg?style=flat-square)](http://twitter.com/havok)
 # phpBlinkCameraAPI
 Unofficial php class API of the Blink Wire-Free HD Home Monitoring & Alert System.
+
 Thanks to https://github.com/MattTW/BlinkMonitorProtocol
