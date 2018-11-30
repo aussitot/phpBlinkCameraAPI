@@ -6,5 +6,5 @@ $blink_password = "blink password";
 
 $blink = new BlinkCamera($blink_username, $blink_password);
 $blink->Arm();
-
+//
 ?>
